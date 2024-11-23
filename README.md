@@ -5,3 +5,7 @@
 </p>
 
 
+
+
+### 🐍 A Snake Eating My Contributions!
+![Snake animation](https://github.com/<>/<repo-name>/blob/main/github-contribution-grid-snake.svg)
