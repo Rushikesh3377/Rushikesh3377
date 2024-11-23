@@ -7,5 +7,5 @@
 
 
 
-### 🐍 A Snake Eating My Contributions!
-![Snake animation](https://github.com/<>/<repo-name>/blob/main/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/Rushikesh3377/Rushikesh3377/blob/main/github-contribution-grid-snake.svg)
